@@ -23,7 +23,7 @@ Model.ipynb:
 app.py:
 - This file Contains code for running the model as a web app.We are using ***Streamlit*** to build a front end for our model. where we can just upload a photo of a person and the model will predict whether the person has autism or not.
 
-Usage
+# Usage
 - Make sure that you have all the required packages installed before running the code.
 - Clone the repository to your local machine.
 - Open the Model.ipynb file in Jupyter Notebook and run the code.
